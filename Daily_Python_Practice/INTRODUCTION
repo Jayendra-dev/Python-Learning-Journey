@@ -1,0 +1,100 @@
+# Daily Python Practice
+
+A dedicated repository to document my Python programming journey through consistent daily practice, problem-solving, and hands-on coding.
+
+This repository contains Python practice questions, coding solutions, and implementations covering fundamental to advanced programming concepts. The primary goal is to strengthen programming fundamentals, improve logical thinking, and develop problem-solving skills.
+
+##  Objectives
+
+- Build a strong foundation in Python programming.
+- Practice coding problems consistently.
+- Improve logical thinking and problem-solving abilities.
+- Understand Python concepts through practical implementation.
+- Maintain a record of daily learning and coding progress.
+- Develop programming skills relevant to Data Science, AI/ML, and software development.
+
+##  Topics Covered
+
+| No. | Topic | Status |
+|---|---|---|
+| 01 | Python Fundamentals & Syntax |  In Progress |
+| 02 | Variables and Data Types |  In Progress |
+| 03 | Operators and Expressions |  Upcoming |
+| 04 | Conditional Statements |  Upcoming |
+| 05 | Loops (for and while) |  Upcoming |
+| 06 | Strings and String Methods | ⏳ Upcoming |
+| 07 | Lists, Tuples, Sets and Dictionaries | ⏳ Upcoming |
+| 08 | Functions and Recursion | ⏳ Upcoming |
+| 09 | Object-Oriented Programming | ⏳ Upcoming |
+| 10 | File Handling | ⏳ Upcoming |
+| 11 | Exception Handling | ⏳ Upcoming |
+| 12 | Modules and Packages | ⏳ Upcoming |
+| 13 | List Comprehensions and Lambda Functions | ⏳ Upcoming |
+| 14 | Advanced Python Concepts | ⏳ Upcoming |
+
+## 📂 Repository Structure
+
+```text
+Daily-Python-Practice/
+│
+├── 01_Python_Basics/
+│   ├── variables.py
+│   ├── data_types.py
+│   └── basic_operations.py
+│
+├── 02_Conditional_Statements/
+│   ├── if_else.py
+│   └── nested_if.py
+│
+├── 03_Loops/
+│   ├── for_loop.py
+│   └── while_loop.py
+│
+├── 04_Strings/
+│
+├── 05_Data_Structures/
+│
+├── 06_Functions/
+│
+├── 07_OOP/
+│
+└── README.md
+```
+
+*The folder structure will evolve as I explore more Python concepts.*
+
+##  Practice Approach
+
+Each practice session focuses on:
+
+1. Understanding the problem statement.
+2. Developing the logic before writing code.
+3. Implementing the solution using Python.
+4. Testing the solution with different inputs.
+5. Improving code readability and efficiency.
+
+##  Technologies & Tools
+
+- **Language:** Python
+- **IDE:** Visual Studio Code
+- **Version Control:** Git
+- **Code Hosting:** GitHub
+
+##  Learning Progress
+
+This repository is continuously updated as I solve new problems and explore additional Python concepts.
+
+Consistency over perfection — one problem at a time.
+
+##  Long-Term Goal
+
+To develop strong Python programming skills and build a solid foundation for Data Structures & Algorithms,
+  Data Science, Artificial Intelligence, and Machine Learning.
+
+---
+
+**"Great programmers are not born; they are built through consistent practice and problem-solving."**
+
+ If you find this repository useful, feel free to explore and learn along with me.
+
+**Author:** Jayendra Kumar
