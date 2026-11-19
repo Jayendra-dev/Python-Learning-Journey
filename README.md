@@ -19,20 +19,20 @@ This repository contains Python practice questions, coding solutions, and implem
 |---|---|---|
 | 01 | Python Fundamentals & Syntax |  In Progress |
 | 02 | Variables and Data Types | In Progress |
-| 03 | Operators and Expressions | ⏳ Upcoming |
-| 04 | Conditional Statements | ⏳ Upcoming |
-| 05 | Loops (for and while) | ⏳ Upcoming |
-| 06 | Strings and String Methods | ⏳ Upcoming |
-| 07 | Lists, Tuples, Sets and Dictionaries | ⏳ Upcoming |
-| 08 | Functions and Recursion | ⏳ Upcoming |
-| 09 | Object-Oriented Programming | ⏳ Upcoming |
-| 10 | File Handling | ⏳ Upcoming |
-| 11 | Exception Handling | ⏳ Upcoming |
-| 12 | Modules and Packages | ⏳ Upcoming |
-| 13 | List Comprehensions and Lambda Functions | ⏳ Upcoming |
-| 14 | Advanced Python Concepts | ⏳ Upcoming |
+| 03 | Operators and Expressions |  Upcoming |
+| 04 | Conditional Statements |  Upcoming |
+| 05 | Loops (for and while) |  Upcoming |
+| 06 | Strings and String Methods |  Upcoming |
+| 07 | Lists, Tuples, Sets and Dictionaries |  Upcoming |
+| 08 | Functions and Recursion | Upcoming |
+| 09 | Object-Oriented Programming |  Upcoming |
+| 10 | File Handling |  Upcoming |
+| 11 | Exception Handling |  Upcoming |
+| 12 | Modules and Packages |  Upcoming |
+| 13 | List Comprehensions and Lambda Functions |  Upcoming |
+| 14 | Advanced Python Concepts |  Upcoming |
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```text
 Daily-Python-Practice/
