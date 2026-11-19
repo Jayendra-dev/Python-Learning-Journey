@@ -1,0 +1,8 @@
+#print python keywords
+
+
+import keyword
+print(keyword.kwlist)
+print(len(keyword.kwlist))
+print(keyword.iskeyword("while"))
+print(keyword.iskeyword("name"))
