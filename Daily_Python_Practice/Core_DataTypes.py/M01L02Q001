@@ -1,0 +1,20 @@
+
+# main built in data types in python 
+age = 22
+price = 499.99
+name = "Rahul"
+is_student = True
+result = None
+print(type(age))
+print(type(price))
+print(type(name))
+print(type(is_student))
+print(type(result))
+
+"""Output:
+<class 'int'>
+<class 'float'>
+<class 'str'>
+<class 'bool'>
+<class 'NoneType'>
+The type() function returns the type of a value or variable."""
